@@ -1,0 +1,71 @@
+ 1. Diferenças entre três linguagens de programação: Python, JavaScript e Java
+ Python
+- Paradigma: Multiparadigma (suporta programação orientada a objetos, imperativa e funcional).
+- Sintaxe: Conhecida por sua clareza e simplicidade, o que a torna uma boa escolha para iniciantes.
+- Uso: Amplamente usada em ciência de dados, aprendizado de máquina, automação, desenvolvimento web (Django, Flask), e scripts de automação.
+- interpretação/Compilação: Interpretada.
+- *Gestão de Memória**: Gerenciamento automático de memória através do coletor de lixo.
+
+ JavaScript
+- Paradigma: Multiparadigma (suporta programação orientada a objetos, imperativa e funcional).
+- Sintaxe: Similar ao C, mas com características próprias que facilitam a manipulação do DOM e a interação com HTML e CSS.
+- Uso: Principalmente usada para desenvolvimento web, tanto no frontend (React, Angular) quanto no backend (Node.js).
+- Interpretação/Compilação: Interpretada, executada no navegador ou em ambientes como Node.js.
+- Gestão de Memória: Gerenciamento automático de memória através do coletor de lixo.
+
+Java
+- Paradigma: Orientada a objetos.
+- Sintaxe: Verbosa e fortemente tipada, similar a C++.
+- Uso: Amplamente usada em desenvolvimento corporativo, aplicativos Android, sistemas de backend e aplicações de desktop.
+- Interpretação/Compilação: Compilada para bytecode que roda na JVM (Java Virtual Machine).
+- Gestão de Memória: Gerenciamento automático de memória através do coletor de lixo.
+
+2. Código mínimo em cada uma delas
+Python
+```python
+Programa mínimo em Python que imprime "Olá, Mundo!"
+print("Olá, Mundo!")
+
+ JavaScript
+```javascript
+// Programa mínimo em JavaScript que imprime "Olá, Mundo!"
+console.log("Olá, Mundo!");
+
+ Java
+ Programa mínimo em Java que imprime "Olá, Mundo!"
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+    }
+
+
+3. como Executar o código
+ Python
+```python
+print("Olá, Mundo!")
+```
+
+JavaScript
+```javascript
+console.log("Olá, Mundo!");
+```
+
+ Java
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+
+Execução de Python e JavaScript;
+
+
+Vou executar os códigos Python e JavaScript:
+
+```python
+print("Olá, Mundo!")
+```
+
+```javascript
+console.log("Olá, Mundo!");
+```
+
